@@ -1,0 +1,49 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+  min-width: 100%;
+}
+.maindiv {
+  margin: 50px;
+  padding: 50px;
+  border-radius: 15px;
+  background-color: rgb(228, 145, 113)
+}
+.div {
+  font-size: 40px;
+  color: #fff;
+  font-style: italic;
+  text-align: center;
+  padding: 20px;
+}
+.textbox {
+  padding: 10px 0px;
+  margin: 10px;
+  margin-left: 30px;
+  padding-left: 20px;
+  font-size: 20px;
+  border-radius: 10px;
+  border: none;
+}
+.btn {
+  background-color: rgb(2, 48, 255);
+  font-size: 20px;
+  font-family: Monaco;
+  color: #fff;
+  margin-left: 20px;
+  padding: 10px 30px;
+  border-radius: 25px;
+  border: none;
+}
+.para {
+  font-size: 25px;
+  letter-spacing: 1px;
+  height: 100%;
+  width: 100%;
+  color: white;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
